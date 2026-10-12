@@ -27,7 +27,7 @@ Click [here](https://cad.onshape.com/documents/107dcb341132d77605ee247c/w/14892f
 ## How to get your own Deskr?
 1. Download the source CAD .step file from the [Hardware](Hardware/) directory
 2. Import the file into your CAD editor and make edits as you want (Optional)
-3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](robu.in) or [JLCPCB](jlcpcb.com))
+3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
 4. That's it! Wait for it to arrive and go organize your stuff!
 5. You will possibly get a solid black pla 3d print. To make the text and renders contrast with it, you will have to paint it with a color like white or yellow!
 
