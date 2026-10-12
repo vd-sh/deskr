@@ -37,7 +37,7 @@ Click [here](https://cad.onshape.com/documents/107dcb341132d77605ee247c/w/14892f
 3. Color- Black
 4. Infill- 60%
 
-## [BOM](BOM.csv) as a table
+## [BOM](BOM.csv)
 | Item                | Quantity | Price (USD) | Link    |
 |---------------------|----------|-------------|---------|
 | 3D Print (PLA)      | 1        | 13.2        | robu.in |
