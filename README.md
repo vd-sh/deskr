@@ -2,7 +2,7 @@
 Deskr is a simple stand that sits on your table and does a lowkey job of categorizing/organising your stuff.
 
 ## What is this?
-Deskr is basically an organiser for all your stuff that sits on your desk and looks messy. Deskr is divided into different sections with different heights to serve various types of items.
+Deskr is an organiser for all the stuff on your desk that makes it look messy. Deskr is divided into sections at different heights to hold different types of items.
 
 <img src="Assets/Screenshot-2026-10-11-174406.png" alt="image of deskr" width="350">
 
