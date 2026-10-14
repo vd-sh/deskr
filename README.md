@@ -14,8 +14,6 @@ deskr/
 |
 |---- Hardware/---------# Source design file for the CAD
 |
-|---- BOM.csv-----------# Bill of Material
-|
 |---- LICENSE-----------# MIT License
 |
 |---- README.md---------# Project documentation and instructions
@@ -36,16 +34,6 @@ Click [here](https://cad.onshape.com/documents/107dcb341132d77605ee247c/w/14892f
 2. Material- PLA
 3. Color- Black
 4. Infill- 60%
-
-## [BOM](BOM.csv)
-| Item                | Quantity | Price (USD) | Link    |
-|---------------------|----------|-------------|---------|
-| 3D Print (PLA)      | 1        | 13.2        | robu.in |
-| Shipping & Handling |          | 1           |         |
-| Total               |          | 14.2        |         |
-
-## Cart Image
-<img src="Assets/Screenshot-2026-10-11-183857.png" alt="cart image" width="500">
 
 ## License
 [MIT](LICENSE)- Use, modify, share as you like!
