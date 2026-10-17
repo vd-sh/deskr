@@ -29,6 +29,13 @@ Click [here](https://cad.onshape.com/documents/107dcb341132d77605ee247c/w/14892f
 4. That's it! Wait for it to arrive and go organize your stuff!
 5. You will possibly get a solid black pla 3d print. To make the text and renders contrast with it, you will have to paint it with a color like white or yellow!
 
+## [BOM](BOM.csv) as a table
+| Item     | Description  | Quantity | Price (USD) | Link                             |
+|----------|--------------|----------|-------------|----------------------------------|
+| 3D print | PLA (222 gm) | 1        | 11.1        | https://printlegion.hackclub.com |
+| Shipping |              |          | 1           |                                  |
+| Total    |              |          | 12.1        |                                  |
+
 ## Fabrication Specs
 1. Printer- 0.2 mm Standard Quality
 2. Material- PLA
