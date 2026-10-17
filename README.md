@@ -14,6 +14,8 @@ deskr/
 |
 |---- Hardware/---------# Source design file for the CAD
 |
+|---- BOM.csv-----------# Bill of materials
+|
 |---- LICENSE-----------# MIT License
 |
 |---- README.md---------# Project documentation and instructions
