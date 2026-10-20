@@ -9,16 +9,11 @@ Deskr is an organiser for all the stuff on your desk that makes it look messy. D
 ## Repository Structure
 ```text
 deskr/
-|
-|---- Assets/-----------# Images and visual references for the project
-|
-|---- Hardware/---------# Source design file for the CAD
-|
-|---- BOM.csv-----------# Bill of materials
-|
-|---- LICENSE-----------# MIT License
-|
-|---- README.md---------# Project documentation and instructions
+1] Assets/----> All the images and visual references of the project
+2] Hardware/--> Source design files
+3] BOM.csv----> Bill of materials
+4] LICENSE----> MIT License
+5] README.md --> Detailed project documentation and instructions
 ```
 
 ## Live 3d view in Onshape
